@@ -2,15 +2,8 @@
 
 <div align="center">
     <h1>📝 Default blocklist collection for AdGuard</h1>
-    <p>
-        📄 » <b>Format: ||domain.tld^</b><br>
-        📥 » <b>Last update: 1.11.2025 / DD.MM.YYYY</b><br>
-        ⭐ » <b>Mark this repository with a star if you find it useful.</b>
-    </p>
 </div>
-<h3 align="right">
-    <a href="https://sefinek.net/blocklist-generator/adguard">🌍 Try the blocklist generator on my website (recommended) »</a>
-</h3>
+
 <br>
 
 ```
