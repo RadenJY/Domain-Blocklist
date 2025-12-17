@@ -3,8 +3,8 @@
 ! Description: Blocklist of porn websites, based on Porn lists
 ! Version: 1.0.23.47
 ! Homepage: https://gist.github.com/RadenJY/3180cc70b38115cf2e6da7bea859af62
-! Last modified: 2025-12-02 03:10:00
-!
+! Last modified: 2025-12-17 22:10:00
+! Total number of network filters: 6560
 ! Compiled by @Raden Jala Yatra (RadenJY)
 !
 ||2hentai.net^
