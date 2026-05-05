@@ -19,6 +19,7 @@
 ||static.doubleclick.net^
 ||m.doubleclick.net^
 ||mediavisor.doubleclick.net^
+||adclick.g.doubleclick.net^
 
 ! --- Adcolony
 ||ads30.adcolony.com^
