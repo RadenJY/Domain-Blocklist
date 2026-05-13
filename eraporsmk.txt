@@ -1,4 +1,6 @@
 # Domain erapor SMK
-
+dapo.smkalhuda.my.id
 eraporv7.smkalhuda.my.id
+eraporv70.smkalhuda.my.id
 eraporv8.smkalhuda.my.id
+eraporv80.smkalhuda.my.id
