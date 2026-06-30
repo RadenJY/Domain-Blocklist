@@ -2,6 +2,8 @@
 ! Mengizinkan endpoint utama agar komentar & postingan bisa dibuka kembali
 @@||graph.facebook.com^
 @@||www.facebook.com^
+@@||graph.instagram.com^
+
 
 ! Memblokir server pengirim iklan & pelacak eksternal milik Meta
 ||an.facebook.com^
