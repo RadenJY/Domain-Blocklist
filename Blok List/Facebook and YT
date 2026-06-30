@@ -1,0 +1,18 @@
+! --- [ ATURAN PENYELAMAT FACEBOOK ] ---
+! Mengizinkan endpoint utama agar komentar & postingan bisa dibuka kembali
+@@||graph.facebook.com^
+@@||www.facebook.com^
+
+! Memblokir server pengirim iklan & pelacak eksternal milik Meta
+||an.facebook.com^
+||advertise.facebook.com^
+||analytics.facebook.com^
+||connect.facebook.net^
+||pixel.facebook.com^
+
+! --- [ ATURAN TAMBAHAN UNTUK YOUTUBE ] ---
+! Memblokir server iklan video & pelacak Google Analytics di YouTube
+||://youtube.com
+||googleads.g.doubleclick.net^
+||pubads.g.doubleclick.net^
+||://googleapis.com
