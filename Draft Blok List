@@ -1,0 +1,38 @@
+WhiteList :
+https://raw.githubusercontent.com/RadenJY/Domain-Blocklist/refs/heads/main/whitelist
+
+Erapor :
+https://raw.githubusercontent.com/RadenJY/Domain-Blocklist/refs/heads/main/eraporsmk.txt
+
+Filter New :
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_54.txt
+https://big.oisd.nl/
+https://nsfw.oisd.nl/
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts
+https://raw.githubusercontent.com/RadenJY/Domain-Blocklist/refs/heads/main/Blok%20List/Adsgoogle.txt
+https://raw.githubusercontent.com/RadenJY/Domain-Blocklist/refs/heads/main/Blok%20List/not-include-nsfw-site.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/multi.txt
+https://adaway.org/hosts.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
+https://raw.githubusercontent.com/easylist/easylist/gh-pages/easylist.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
+https://blocklistproject.github.io/Lists/adguard/ads-ags.txt
+https://blocklistproject.github.io/Lists/adguard/phishing-ags.txt
+https://blocklistproject.github.io/Lists/adguard/malware-ags.txt
+https://blocklistproject.github.io/Lists/adguard/ransomware-ags.txt
+https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt
+https://raw.githubusercontent.com/RadenJY/Domain-Blocklist/refs/heads/main/Blok%20List/Facebook%20and%20YT
+https://phishing.army/download/phishing_army_blocklist.txt
