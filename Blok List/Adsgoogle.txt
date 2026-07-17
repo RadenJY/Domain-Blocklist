@@ -12,7 +12,7 @@
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
-||googleadservices.com^
+www.googleadservices.com
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
@@ -23,7 +23,7 @@
 ||adclick.g.doubleclick.net^
 ||g.doubleclick.net^
 ||googleads.g.doubleclick.net^
-||ad.doubleclick.net^
+
 
 ! --- Adcolony
 ||ads30.adcolony.com^
