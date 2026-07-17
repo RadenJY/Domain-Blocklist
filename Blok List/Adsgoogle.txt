@@ -12,6 +12,7 @@
 ||adservice.google.com^
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
+||googleadservices.com^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
