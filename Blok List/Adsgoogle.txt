@@ -13,6 +13,10 @@
 ||pagead2.googleadservices.com^
 ||afs.googlesyndication.com^
 www.googleadservices.com
+ad.adsrvr.org
+||adsrvr.org^
+insight.adsrvr.org
+||googlesyndication.com^
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
