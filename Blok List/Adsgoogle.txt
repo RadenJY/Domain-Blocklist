@@ -17,6 +17,8 @@ ad.adsrvr.org
 ||adsrvr.org^
 insight.adsrvr.org
 ||googlesyndication.com^
+tpc.googlesyndication.com
+cm.g.doubleclick.net
 
 ! --- Doubleclick.net
 ||stats.g.doubleclick.net^
