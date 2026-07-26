@@ -28,7 +28,9 @@ cm.g.doubleclick.net
 ||mediavisor.doubleclick.net^
 ||adclick.g.doubleclick.net^
 ||g.doubleclick.net^
-||googleads.g.doubleclick.net^
+#||googleads.g.doubleclick.net^
+googleads.g.doubleclick.net
+||doubleclick.net^
 
 
 ! --- Adcolony
