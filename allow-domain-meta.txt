@@ -6,3 +6,9 @@
 ||tiktokv.com^
 ||tiktokcdn.com^
 ||byteoversea.com^
+
+# Allow YT :
+||youtube.com^
+||googlevideo.com^
+||ytimg.com^
+||youtu.be^
