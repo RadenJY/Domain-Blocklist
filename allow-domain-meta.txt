@@ -1,0 +1,8 @@
+# Allow Meta :
+||fbcdn.net^
+||fbsbx.com^
+
+# Allow TikTok :
+||tiktokv.com^
+||tiktokcdn.com^
+||byteoversea.com^
