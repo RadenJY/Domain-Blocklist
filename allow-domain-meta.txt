@@ -1,3 +1,10 @@
+#Allow WA :
+||dit.whatsapp.net^
+||g.whatsapp.net^
+||g-fallback.whatsapp.net^
+||graph.whatsapp.com^
+||graph.facebook.com^
+
 # Allow Meta :
 ||fbcdn.net^
 ||fbsbx.com^
