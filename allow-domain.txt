@@ -1,22 +1,22 @@
 [Adblock Plus 2.0]
-! Title: Custom App Allowlist Terpadu untuk AdGuard Home
-! Description: Gabungan whitelist kritis untuk WhatsApp, Meta, TikTok, YouTube, e-Commerce, dan Mobile Legends.
-! Version: 1.2.0
+! Title: Custom App Allowlist Bersih - AdGuard Home
+! Description: Whitelist fungsional untuk WhatsApp, Meta, TikTok, YouTube, e-Commerce, dan ML. Bersih dari server iklan.
+! Version: 1.3.0
 ! Expires: 1 days
 
 ! --- WHATSAPP ---
 @@||dit.whatsapp.net^
 @@||g.whatsapp.net^
 @@||g-fallback.whatsapp.net^
-@@||graph.whatsapp.com^
+@@||://whatsapp.com^
 @@||graph.whatsapp.net^
 @@||e.whatsapp.net^
 @@||e6.whatsapp.net^
 
 ! --- META & INSTAGRAM ---
-@@||graph.facebook.com^
-@@||b-graph.facebook.com^
-@@||edge-chat.facebook.com^
+@@||://facebook.com^
+@@||b-://facebook.com^
+@@||://facebook.com^
 @@||connect.facebook.net^
 @@||://instagram.com^
 @@||://instagram.com^
@@ -28,15 +28,14 @@
 @@||tiktokv.com^
 @@||tiktokcdn.com^
 @@||byteoversea.com^
-@@||log.tiktokv.com^
-@@||mon.tiktokv.com^
-@@||api.tiktokv.com^
-@@||log-va.tiktokv.com^
+@@||://tiktokv.com^
+@@||://tiktokv.com^
+@@||://tiktokv.com^
+@@||://tiktokv.com^
 @@||://tiktok.com^
 
-! --- YOUTUBE ---
+! --- YOUTUBE (HANYA ELEMEN SISTEM & GAMBAR) ---
 @@||youtube.com^
-@@||googlevideo.com^
 @@||ytimg.com^
 @@||youtu.be^
 
@@ -46,8 +45,7 @@
 @@||v.tokopedia.net^
 @@||://tokopedia.com^
 
-! --- SHOPEE ---
-@@||ads.shopee.co.id^
+! --- SHOPEE (HANYA INFRASTRUKTUR & GAMBAR PRODUK) ---
 @@||cf.shopee.co.id^
 @@||shopee.co.id/api/^
 @@||tracking.shopee.co.id^
