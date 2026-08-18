@@ -1,0 +1,59 @@
+[Adblock Plus 2.0]
+! Title: Custom App Allowlist Terpadu untuk AdGuard Home
+! Description: Gabungan whitelist kritis untuk WhatsApp, Meta, TikTok, YouTube, e-Commerce, dan Mobile Legends.
+! Version: 1.2.0
+! Expires: 1 days
+
+! --- WHATSAPP ---
+@@||dit.whatsapp.net^
+@@||g.whatsapp.net^
+@@||g-fallback.whatsapp.net^
+@@||graph.whatsapp.com^
+@@||graph.whatsapp.net^
+@@||e.whatsapp.net^
+@@||e6.whatsapp.net^
+
+! --- META & INSTAGRAM ---
+@@||graph.facebook.com^
+@@||b-graph.facebook.com^
+@@||edge-chat.facebook.com^
+@@||connect.facebook.net^
+@@||://instagram.com^
+@@||://instagram.com^
+@@||://instagram.com^
+@@||fbcdn.net^
+@@||fbsbx.com^
+
+! --- TIKTOK ---
+@@||tiktokv.com^
+@@||tiktokcdn.com^
+@@||byteoversea.com^
+@@||log.tiktokv.com^
+@@||mon.tiktokv.com^
+@@||api.tiktokv.com^
+@@||log-va.tiktokv.com^
+@@||://tiktok.com^
+
+! --- YOUTUBE ---
+@@||youtube.com^
+@@||googlevideo.com^
+@@||ytimg.com^
+@@||youtu.be^
+
+! --- TOKOPEDIA ---
+@@||://tokopedia.com^
+@@||p.tokopedia.net^
+@@||v.tokopedia.net^
+@@||://tokopedia.com^
+
+! --- SHOPEE ---
+@@||ads.shopee.co.id^
+@@||cf.shopee.co.id^
+@@||shopee.co.id/api/^
+@@||tracking.shopee.co.id^
+
+! --- MOBILE LEGENDS (MOONTON) ---
+@@||://moonton.com^
+@@||://moonton.com^
+@@||://moonton.com^
+@@||://youngjoygame.com^
