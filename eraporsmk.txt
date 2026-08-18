@@ -1,8 +1,7 @@
-# Domain erapor SMK
+[Adblock Plus 2.0]
+! Allow domain Erapor SMK
+! Version: 1.3.0
+! Expires: 1 days
+
 @@||smkalhuda.my.id^
 @@||radenjalayatra.my.id^
-#||smkalhuda.my.id^
-#eraporv7.smkalhuda.my.id
-#eraporv70.smkalhuda.my.id
-#eraporv8.smkalhuda.my.id
-#eraporv80.smkalhuda.my.id
