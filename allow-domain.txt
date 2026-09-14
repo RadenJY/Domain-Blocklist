@@ -1,12 +1,25 @@
 [Adblock Plus 2.0]
-! Title: Custom App Allowlist Bersih - AdGuard Home
-! Description: Whitelist fungsional untuk WhatsApp, Meta, TikTok, YouTube, e-Commerce, dan ML. Bersih dari server iklan.
-! Version: 1.3.0
+! Title: Custom App Allowlist Bersih Super Lengkap - AdGuard Home
+! Description: Whitelist gabungan untuk Game, WA, Meta, Zoom, Streaming TV/Bola, Youtube, dan E-Commerce. Bersih dari server iklan.
+! Version: 2.0.0
 ! Expires: 1 days
+
+! ========================================================
+! --- CATEGORY: CHAT, WORK & CONFERENCE ---
+! ========================================================
 
 ! --- WHATSAPP ---
 @@||whatsapp.com^
 @@||whatsapp.net^
+
+! --- ZOOM VIDEO COMMUNICATIONS ---
+@@||zoom.us^
+@@||zoom.com^
+@@||zoom.cloud^
+
+! ========================================================
+! --- CATEGORY: SOCIAL MEDIA (META & TIKTOK) ---
+! ========================================================
 
 ! --- META & INSTAGRAM ---
 @@||instagram.com^
@@ -16,30 +29,23 @@
 @@||fbcdn.net^
 @@||fbsbx.com^
 
-! --- TIKTOK ---
+! --- TIKTOK (Termasuk Live & CDN Video Short) ---
 @@||tiktok.com^
 @@||tiktokv.com^
 @@||tiktokcdn.com^
 @@||byteoversea.com^
+@@||ibyteimg.com^
 
-! --- STREAMING ---
+! ========================================================
+! --- CATEGORY: VIDEO STREAMING & CDN YOUTUBE ---
+! ========================================================
+
+! --- YOUTUBE & GOOGLE VIDEO (Lancar Tanpa Buffering) ---
 @@||youtube.com^
 @@||ytimg.com^
 @@||youtu.be^
-
-! --- E-COMMERCE ---
-@@||tokopedia.com^
-@@||tokopedia.net^
-@@||shopee.co.id^
-@@||shopeemobile.com^
-
-! --- GAME ---
-@@||moonton.com^
-@@||youngjoygame.com^
-
-! ========================================================
-! --- CATEGORY: STREAMING (BOLA, LIVE TV, & KONSER) ---
-! ========================================================
+@@||googlevideo.com^
+@@||://google.com^
 
 ! --- VIDIO (Hak Siar Liga Inggris, Liga 1, TV Lokal, Konser) ---
 @@||vidio.com^
@@ -50,10 +56,10 @@
 @@||thevisionplus.com^
 
 ! --- SPOTV & BEIN SPORTS (Aplikasi Streaming Olahraga / Bola) ---
-@@||://beinsports.com^
+@@||beinsports.com^
 @@||spotvnow.com^
 
-! --- TWITCH & TIKTOK LIVE (Streaming Game & Konser/Event) ---
+! --- TWITCH (Live Streaming Game) ---
 @@||twitch.tv^
 @@||ttvnw.net^
 
@@ -62,8 +68,20 @@
 @@||tiket.com^
 
 ! ========================================================
-! --- CATEGORY: ONLINE GAMES (ANAK-ANAK & POPULER) ---
+! --- CATEGORY: ONLINE GAMES (MOBILE & PC) ---
 ! ========================================================
+
+! --- MOBILE LEGENDS & MOONTON ---
+@@||moonton.com^
+@@||youngjoygame.com^
+@@||mobilelegends.com^
+
+! --- HONOR OF KINGS (HOK) ---
+@@||honorofkings.com^
+@@||hok.com^
+
+! --- PUBG MOBILE ---
+@@||pubgmobile.com^
 
 ! --- FREE FIRE (GARENA) ---
 @@||garena.com^
@@ -73,20 +91,40 @@
 ! --- ROBLOX ---
 @@||roblox.com^
 @@||rbxcdn.com^
-@@||://rbxcdn.com^
 
 ! --- POINT BLANK (ZEPPETTO) ---
 @@||pointblank.id^
 @@||zepetto.com^
+
+! --- RPG / HOYOVERSE (Genshin Impact, Honkai Star Rail, ZZZ) ---
+@@||hoyoverse.com^
+@@||mihoyo.com^
+
+! --- PC GAMING PLATFORM (Steam & Epic Games) ---
+@@||steampowered.com^
+@@||steamcommunity.com^
+@@||epicgames.com^
+@@||riotgames.com^
 
 ! --- GAME ANAK UMUM (MINECRAFT & TOKA BOCA) ---
 @@||minecraft.net^
 @@||mojang.com^
 @@||tocaboca.com^
 
-! --- SERVER CHAT GAME (DISCORD - Sering dipakai mabar anak-anak) ---
+! --- SERVER CHAT GAME (DISCORD - Sering dipakai mabar) ---
 @@||discord.gg^
 @@||discord.com^
 @@||discordapp.com^
 @@||discordapp.net^
 
+! ========================================================
+! --- CATEGORY: E-COMMERCE / BELANJA ---
+! ========================================================
+
+! --- TOKOPEDIA ---
+@@||tokopedia.com^
+@@||tokopedia.net^
+
+! --- SHOPEE ---
+@@||shopee.co.id^
+@@||shopeemobile.com^
