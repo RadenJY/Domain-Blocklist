@@ -1,0 +1,78 @@
+! ========================================================
+! --- CATEGORY: CRITICAL SYSTEM & HOTSPOT LOGIN CAPTIVE PORTAL ---
+! ========================================================
+! --- MANDATORY FOR HOTSPOT LOGIN PAGE & CONNECTIVITY CHECKS ---
+@@||gstatic.com^
+@@||google.com^
+@@||msftncsi.com^
+@@||msftconnecttest.com^
+@@||firefox.com^
+@@||apple.com^
+@@||microsoft.com^
+@@||googleapis.com^
+@@||gvt1.com^
+
+! ========================================================
+! --- CATEGORY: SAFE INFRASTRUCTURE & DISCORD/STEAM SYSTEM ---
+! ========================================================
+! --- CORE NETWORK CDN (SAFE FROM ADS) ---
+@@||laksa19.github.io^
+@@||1drv.com^
+@@||akamaihd.net^
+@@||akamaitechnologies.com^
+@@||akamaized.net^
+@@||amazonaws.com^
+@@||aspnetcdn.com^
+@@||brightcove.net^
+@@||dataplicity.com^
+@@||github.com^
+@@||github.io^
+@@||gravatar.com^
+@@||imgix.net^
+@@||intercom.io^
+@@||jquery.com^
+@@||jsdelivr.net^
+@@||live.com^
+@@||microsoftonline.com^
+@@||no-ip.com^
+@@||office.com^
+@@||office.net^
+@@||office365.com^
+@@||placehold.it^
+@@||tedcdn.com^
+@@||themoviedb.com^
+@@||thetvdb.com^
+@@||tinyurl.com^
+@@||wp.com^
+@@||google.de^
+@@||google.fr^
+@@||google.ie^
+@@||google.se^
+@@||elasticbeanstalk.com^
+
+! --- GAMING PLATFORMS EXTENSIONS & ALTERNATIVE VIDEO ---
+@@||dis.gd^
+@@||discord-activities.com^
+@@||discord.co^
+@@||discord.design^
+@@||discord.dev^
+@@||discord.gift^
+@@||discord.gifts^
+@@||discord.media^
+@@||discord.new^
+@@||discord.store^
+@@||discord.tools^
+@@||discordactivities.com^
+@@||discordapp.io^
+@@||s.team^
+@@||steam-chat.com^
+@@||steamchina.com^
+@@||steamcontent.com^
+@@||steamgames.com^
+@@||steamstatic.com^
+@@||steamusercontent.com^
+@@||valve.net^
+@@||valvesoftware.com^
+@@||ext-twitch.tv^
+@@||live-video.net^
+@@||youtube-nocookie.com^
