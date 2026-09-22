@@ -3,24 +3,19 @@
 ! Description: Whitelist gabungan untuk Game, WA, Meta, Zoom, Streaming TV/Bola, Youtube, dan E-Commerce. Bersih dari server iklan.
 ! Version: 2.0.0
 ! Expires: 1 days
-
 ! ========================================================
 ! --- CATEGORY: CHAT, WORK & CONFERENCE ---
 ! ========================================================
-
 ! --- WHATSAPP ---
 @@||whatsapp.com^
 @@||whatsapp.net^
-
 ! --- ZOOM VIDEO COMMUNICATIONS ---
 @@||zoom.us^
 @@||zoom.com^
 @@||zoom.cloud^
-
 ! ========================================================
 ! --- CATEGORY: SOCIAL MEDIA (META & TIKTOK) ---
 ! ========================================================
-
 ! --- META & INSTAGRAM ---
 @@||instagram.com^
 @@||cdninstagram.com^
@@ -28,103 +23,81 @@
 @@||facebook.net^
 @@||fbcdn.net^
 @@||fbsbx.com^
-
 ! --- TIKTOK (Termasuk Live & CDN Video Short) ---
 @@||tiktok.com^
 @@||tiktokv.com^
 @@||tiktokcdn.com^
 @@||byteoversea.com^
 @@||ibyteimg.com^
-
 ! ========================================================
 ! --- CATEGORY: VIDEO STREAMING & CDN YOUTUBE ---
 ! ========================================================
-
 ! --- YOUTUBE & GOOGLE VIDEO (Lancar Tanpa Buffering) ---
 @@||youtube.com^
 @@||ytimg.com^
 @@||youtu.be^
 @@||googlevideo.com^
 @@||://google.com^
-
 ! --- VIDIO (Hak Siar Liga Inggris, Liga 1, TV Lokal, Konser) ---
 @@||vidio.com^
 @@||vidx.id^
-
 ! --- VISION+ (Hak Siar Timnas, RCTI Group, Sports & Live TV) ---
 @@||visionplus.id^
 @@||thevisionplus.com^
-
 ! --- SPOTV & BEIN SPORTS (Aplikasi Streaming Olahraga / Bola) ---
 @@||beinsports.com^
 @@||spotvnow.com^
-
 ! --- TWITCH (Live Streaming Game) ---
 @@||twitch.tv^
 @@||ttvnw.net^
-
 ! --- INFRASTRUKTUR LIVE STREAMING UMUM (CDN & Tiketing Konser) ---
 @@||loket.com^
 @@||tiket.com^
-
 ! ========================================================
 ! --- CATEGORY: ONLINE GAMES (MOBILE & PC) ---
 ! ========================================================
-
 ! --- MOBILE LEGENDS & MOONTON ---
 @@||moonton.com^
 @@||youngjoygame.com^
 @@||mobilelegends.com^
-
 ! --- HONOR OF KINGS (HOK) ---
 @@||honorofkings.com^
 @@||hok.com^
-
 ! --- PUBG MOBILE ---
 @@||pubgmobile.com^
-
 ! --- FREE FIRE (GARENA) ---
 @@||garena.com^
 @@||garena.id^
 @@||freefiremobile.com^
-
 ! --- ROBLOX ---
 @@||roblox.com^
 @@||rbxcdn.com^
-
 ! --- POINT BLANK (ZEPPETTO) ---
 @@||pointblank.id^
 @@||zepetto.com^
-
 ! --- RPG / HOYOVERSE (Genshin Impact, Honkai Star Rail, ZZZ) ---
 @@||hoyoverse.com^
 @@||mihoyo.com^
-
 ! --- PC GAMING PLATFORM (Steam & Epic Games) ---
 @@||steampowered.com^
 @@||steamcommunity.com^
 @@||epicgames.com^
 @@||riotgames.com^
-
 ! --- GAME ANAK UMUM (MINECRAFT & TOKA BOCA) ---
 @@||minecraft.net^
 @@||mojang.com^
 @@||tocaboca.com^
-
 ! --- SERVER CHAT GAME (DISCORD - Sering dipakai mabar) ---
 @@||discord.gg^
 @@||discord.com^
 @@||discordapp.com^
 @@||discordapp.net^
-
 ! ========================================================
 ! --- CATEGORY: E-COMMERCE / BELANJA ---
 ! ========================================================
-
 ! --- TOKOPEDIA ---
 @@||tokopedia.com^
 @@||tokopedia.net^
-
 ! --- SHOPEE ---
 @@||shopee.co.id^
 @@||shopeemobile.com^
