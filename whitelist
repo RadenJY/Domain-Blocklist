@@ -1,4 +1,4 @@
-#Whitelist Domain
+# Whitelist Domain
 
 laksa19.github.io
 connectivitycheck.gstatic.com
@@ -20,7 +20,6 @@ settings-win.data.microsoft.com
 android.clients.google.com
 play.googleapis.com
 gvt1.com
-gstatic.com
 init-p01st.push.apple.com
 init-p01md.apple.com
 ocsp.apple.com
@@ -28,10 +27,8 @@ cdn.optimizely.com
 dis.gd
 discord-activities.com
 discord.co
-discord.com
 discord.design
 discord.dev
-discord.gg
 discord.gift
 discord.gifts
 discord.media
@@ -39,31 +36,18 @@ discord.new
 discord.store
 discord.tools
 discordactivities.com
-discordapp.com
 discordapp.io
-discordapp.net
-discordcdn.com
-discordmerch.com
-discordpartygames.com
-discordsays.com
-discordstatus.com
 s.team
 steam-chat.com
 steamchina.com
-steamcommunity.com
 steamcontent.com
 steamgames.com
-steampowered.com
 steamstatic.com
 steamusercontent.com
 valve.net
 valvesoftware.com
 ext-twitch.tv
-jtvnw.net
 live-video.net
-ttvnw.net
-twitch.tv
-twitchcdn.net
 1drv.com
 akamaihd.net
 akamaitechnologies.com
@@ -79,14 +63,12 @@ github.com
 github.io
 googleapis.com
 gravatar.com
-gstatic.com
 imgix.net
 intercom.io
 jquery.com
 jsdelivr.net
 live.com
 microsoftonline.com
-msftncsi.com
 no-ip.com
 office.com
 office.net
@@ -100,10 +82,7 @@ thetvdb.com
 tinyurl.com
 twimg.com
 wp.com
-youtu.be
 youtube-nocookie.com
-facebook.com
-google.com
 google.de
 google.fr
 google.ie
